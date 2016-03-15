@@ -1,0 +1,68 @@
+.btn {
+    border: none;
+    border-radius: 0.2em;
+    box-shadow: inset 0 -2px 0 rgba(0,0,0,0.25);
+    box-sizing: border-box;
+    display: inline-block;
+    font-size: 83.333%;
+    font-weight: bold;
+    line-height: 1;
+    outline: 0;
+    padding: 0.8em 1.5rem 0.95em;
+    padding: 1em 2em;
+    text-align: center;
+    @include transition(.5s ease all);
+
+
+    &--block {
+        display: block;
+        width: 100%;
+    }
+    &--lime {
+        background: #82b854;
+        color: #daeacc;
+    }
+    &--blue {
+        background: lighten($dark-blue,15%);
+        color: lighten($dark-blue,50%);
+    }
+    &--cyan {
+        background-color: $clr-cyan-400;
+        color: white;
+    }
+    &--indigo {
+        background-color: $clr-indigo-300;
+        color: white;
+        &:hover {
+            background-color: $clr-indigo-400;
+        }
+    }
+    &--deep-orange {
+        background-color: $clr-deep-orange-300;
+        color: white;
+        &:hover {
+            background-color: $clr-deep-orange-400;
+        }
+    }
+
+    &:focus,
+    &:hover {
+        cursor: pointer;
+        color: white;
+    }
+}
+
+
+// -------------------------------------
+//   Theme
+// -------------------------------------
+
+.btn--twitter {
+    background: $twitter;
+    color: tint($twitter, 80%);
+}
+
+.btn--facebook {
+    background: $facebook;
+    color: tint($facebook, 80%);
+}

@@ -1,0 +1,93 @@
+// *************************************
+//
+//   Well
+//   -> Vertical spacing
+//
+// -------------------------------------
+//   Template (Haml)
+// -------------------------------------
+//
+// .well[l]
+//   / ...
+//
+// *************************************
+
+.well {
+  margin-bottom: $b-space;
+  margin-top: $b-space;
+}
+
+// -------------------------------------
+//   Modifiers
+// -------------------------------------
+
+// ----- Sizes ----- //
+
+.well--s {
+  margin-bottom: $b-space-s;
+  margin-top: $b-space-s;
+}
+
+.well--l {
+  margin-bottom: $b-space-l;
+  margin-top: $b-space-l;
+}
+
+.well--xl {
+  margin-bottom: $b-space-xl;
+  margin-top: $b-space-xl;
+}
+
+.well--xxl {
+  margin-bottom: $b-space-xxl;
+  margin-top: $b-space-xxl;
+}
+
+.well--xxxl {
+  margin-bottom: $b-space-xxxl;
+  margin-top: $b-space-xxxl;
+}
+
+.well--hero {
+  margin-bottom: $b-space-xl;
+  margin-top: $b-space-xl;
+  @media screen and (min-width: $g-m) {
+    margin-bottom: $b-space-xxxl;
+    margin-top: $b-space-xxxl;
+  }
+}
+
+
+
+.well--hero {
+    margin-bottom: 4em;
+    margin-top: 4em
+}
+
+@media screen and (min-width: 32em) {
+    .well--hero {
+        margin-bottom: 10%;
+        margin-top: 10%
+    }
+}
+
+.well--hero--alt {
+    margin-bottom: 6em;
+    margin-top: 1.5rem
+}
+@media screen and (min-width: 32em) {
+    .well--hero--alt {
+        margin-bottom: 28%;
+        margin-top: 7%
+    }
+}
+
+// .well--m {
+//     margin-bottom: 18px;
+//     margin-top: 18px
+// }
+
+// .well--l {
+//     margin-bottom: 36px;
+//     margin-top: 36px
+// }

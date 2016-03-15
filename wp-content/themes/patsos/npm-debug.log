@@ -1,0 +1,1196 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node', '/usr/local/bin/npm', 'cache', 'clean' ]
+2 info using npm@2.14.7
+3 info using node@v4.2.2
+4 silly ls normalized .
+5 silly gentlyRm /Users/johnpatsos/.npm/_locks is being purged
+6 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/_locks
+7 silly gentlyRm /Users/johnpatsos/.npm/abbrev is being purged
+8 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/abbrev
+9 silly gentlyRm /Users/johnpatsos/.npm/align-text is being purged
+10 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/align-text
+11 silly gentlyRm /Users/johnpatsos/.npm/ansi is being purged
+12 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/ansi
+13 silly gentlyRm /Users/johnpatsos/.npm/ansi-regex is being purged
+14 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/ansi-regex
+15 silly gentlyRm /Users/johnpatsos/.npm/ansi-styles is being purged
+16 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/ansi-styles
+17 silly gentlyRm /Users/johnpatsos/.npm/archy is being purged
+18 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/archy
+19 silly gentlyRm /Users/johnpatsos/.npm/are-we-there-yet is being purged
+20 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/are-we-there-yet
+21 silly gentlyRm /Users/johnpatsos/.npm/array-differ is being purged
+22 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/array-differ
+23 silly gentlyRm /Users/johnpatsos/.npm/array-index is being purged
+24 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/array-index
+25 silly gentlyRm /Users/johnpatsos/.npm/array-union is being purged
+26 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/array-union
+27 silly gentlyRm /Users/johnpatsos/.npm/array-uniq is being purged
+28 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/array-uniq
+29 silly gentlyRm /Users/johnpatsos/.npm/asn1 is being purged
+30 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/asn1
+31 silly gentlyRm /Users/johnpatsos/.npm/assert-plus is being purged
+32 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/assert-plus
+33 silly gentlyRm /Users/johnpatsos/.npm/async is being purged
+34 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/async
+35 silly gentlyRm /Users/johnpatsos/.npm/async-foreach is being purged
+36 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/async-foreach
+37 silly gentlyRm /Users/johnpatsos/.npm/aws-sign2 is being purged
+38 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/aws-sign2
+39 silly gentlyRm /Users/johnpatsos/.npm/balanced-match is being purged
+40 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/balanced-match
+41 silly gentlyRm /Users/johnpatsos/.npm/beeper is being purged
+42 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/beeper
+43 silly gentlyRm /Users/johnpatsos/.npm/bl is being purged
+44 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/bl
+45 silly gentlyRm /Users/johnpatsos/.npm/block-stream is being purged
+46 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/block-stream
+47 silly gentlyRm /Users/johnpatsos/.npm/boom is being purged
+48 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/boom
+49 silly gentlyRm /Users/johnpatsos/.npm/brace-expansion is being purged
+50 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/brace-expansion
+51 silly gentlyRm /Users/johnpatsos/.npm/builtin-modules is being purged
+52 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/builtin-modules
+53 silly gentlyRm /Users/johnpatsos/.npm/camelcase is being purged
+54 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/camelcase
+55 silly gentlyRm /Users/johnpatsos/.npm/camelcase-keys is being purged
+56 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/camelcase-keys
+57 silly gentlyRm /Users/johnpatsos/.npm/caseless is being purged
+58 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/caseless
+59 silly gentlyRm /Users/johnpatsos/.npm/center-align is being purged
+60 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/center-align
+61 silly gentlyRm /Users/johnpatsos/.npm/chalk is being purged
+62 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/chalk
+63 silly gentlyRm /Users/johnpatsos/.npm/cli is being purged
+64 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/cli
+65 silly gentlyRm /Users/johnpatsos/.npm/cliui is being purged
+66 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/cliui
+67 silly gentlyRm /Users/johnpatsos/.npm/clone is being purged
+68 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/clone
+69 silly gentlyRm /Users/johnpatsos/.npm/clone-stats is being purged
+70 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/clone-stats
+71 silly gentlyRm /Users/johnpatsos/.npm/code-point-at is being purged
+72 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/code-point-at
+73 silly gentlyRm /Users/johnpatsos/.npm/collect-stream is being purged
+74 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/collect-stream
+75 silly gentlyRm /Users/johnpatsos/.npm/combined-stream is being purged
+76 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/combined-stream
+77 silly gentlyRm /Users/johnpatsos/.npm/commander is being purged
+78 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/commander
+79 silly gentlyRm /Users/johnpatsos/.npm/concat-map is being purged
+80 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/concat-map
+81 silly gentlyRm /Users/johnpatsos/.npm/concat-stream is being purged
+82 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/concat-stream
+83 silly gentlyRm /Users/johnpatsos/.npm/concat-with-sourcemaps is being purged
+84 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/concat-with-sourcemaps
+85 silly gentlyRm /Users/johnpatsos/.npm/config-chain is being purged
+86 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/config-chain
+87 silly gentlyRm /Users/johnpatsos/.npm/console-browserify is being purged
+88 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/console-browserify
+89 silly gentlyRm /Users/johnpatsos/.npm/core-util-is is being purged
+90 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/core-util-is
+91 silly gentlyRm /Users/johnpatsos/.npm/cross-spawn is being purged
+92 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/cross-spawn
+93 silly gentlyRm /Users/johnpatsos/.npm/cross-spawn-async is being purged
+94 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/cross-spawn-async
+95 silly gentlyRm /Users/johnpatsos/.npm/cryptiles is being purged
+96 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/cryptiles
+97 silly gentlyRm /Users/johnpatsos/.npm/ctype is being purged
+98 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/ctype
+99 silly gentlyRm /Users/johnpatsos/.npm/date-now is being purged
+100 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/date-now
+101 silly gentlyRm /Users/johnpatsos/.npm/dateformat is being purged
+102 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/dateformat
+103 silly gentlyRm /Users/johnpatsos/.npm/deap is being purged
+104 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/deap
+105 silly gentlyRm /Users/johnpatsos/.npm/debug is being purged
+106 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/debug
+107 silly gentlyRm /Users/johnpatsos/.npm/decamelize is being purged
+108 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/decamelize
+109 silly gentlyRm /Users/johnpatsos/.npm/deep-equal is being purged
+110 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/deep-equal
+111 silly gentlyRm /Users/johnpatsos/.npm/deep-extend is being purged
+112 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/deep-extend
+113 silly gentlyRm /Users/johnpatsos/.npm/defaults is being purged
+114 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/defaults
+115 silly gentlyRm /Users/johnpatsos/.npm/delayed-stream is being purged
+116 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/delayed-stream
+117 silly gentlyRm /Users/johnpatsos/.npm/delegates is being purged
+118 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/delegates
+119 silly gentlyRm /Users/johnpatsos/.npm/deprecated is being purged
+120 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/deprecated
+121 silly gentlyRm /Users/johnpatsos/.npm/diff is being purged
+122 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/diff
+123 silly gentlyRm /Users/johnpatsos/.npm/dom-serializer is being purged
+124 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/dom-serializer
+125 silly gentlyRm /Users/johnpatsos/.npm/domelementtype is being purged
+126 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/domelementtype
+127 silly gentlyRm /Users/johnpatsos/.npm/domhandler is being purged
+128 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/domhandler
+129 silly gentlyRm /Users/johnpatsos/.npm/domutils is being purged
+130 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/domutils
+131 silly gentlyRm /Users/johnpatsos/.npm/duplexer2 is being purged
+132 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/duplexer2
+133 silly gentlyRm /Users/johnpatsos/.npm/end-of-stream is being purged
+134 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/end-of-stream
+135 silly gentlyRm /Users/johnpatsos/.npm/entities is being purged
+136 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/entities
+137 silly gentlyRm /Users/johnpatsos/.npm/error-ex is being purged
+138 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/error-ex
+139 silly gentlyRm /Users/johnpatsos/.npm/escape-string-regexp is being purged
+140 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/escape-string-regexp
+141 silly gentlyRm /Users/johnpatsos/.npm/exit is being purged
+142 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/exit
+143 silly gentlyRm /Users/johnpatsos/.npm/extend is being purged
+144 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/extend
+145 silly gentlyRm /Users/johnpatsos/.npm/fancy-log is being purged
+146 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/fancy-log
+147 silly gentlyRm /Users/johnpatsos/.npm/find-index is being purged
+148 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/find-index
+149 silly gentlyRm /Users/johnpatsos/.npm/find-up is being purged
+150 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/find-up
+151 silly gentlyRm /Users/johnpatsos/.npm/findup-sync is being purged
+152 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/findup-sync
+153 silly gentlyRm /Users/johnpatsos/.npm/first-chunk-stream is being purged
+154 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/first-chunk-stream
+155 silly gentlyRm /Users/johnpatsos/.npm/flagged-respawn is being purged
+156 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/flagged-respawn
+157 silly gentlyRm /Users/johnpatsos/.npm/forever-agent is being purged
+158 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/forever-agent
+159 silly gentlyRm /Users/johnpatsos/.npm/form-data is being purged
+160 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/form-data
+161 silly gentlyRm /Users/johnpatsos/.npm/fresh is being purged
+162 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/fresh
+163 silly gentlyRm /Users/johnpatsos/.npm/fstream is being purged
+164 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/fstream
+165 silly gentlyRm /Users/johnpatsos/.npm/gauge is being purged
+166 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/gauge
+167 silly gentlyRm /Users/johnpatsos/.npm/gaze is being purged
+168 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/gaze
+169 silly gentlyRm /Users/johnpatsos/.npm/generate-function is being purged
+170 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/generate-function
+171 silly gentlyRm /Users/johnpatsos/.npm/generate-object-property is being purged
+172 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/generate-object-property
+173 silly gentlyRm /Users/johnpatsos/.npm/get-stdin is being purged
+174 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/get-stdin
+175 silly gentlyRm /Users/johnpatsos/.npm/glob is being purged
+176 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/glob
+177 silly gentlyRm /Users/johnpatsos/.npm/glob-stream is being purged
+178 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/glob-stream
+179 silly gentlyRm /Users/johnpatsos/.npm/glob-watcher is being purged
+180 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/glob-watcher
+181 silly gentlyRm /Users/johnpatsos/.npm/glob2base is being purged
+182 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/glob2base
+183 silly gentlyRm /Users/johnpatsos/.npm/globule is being purged
+184 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/globule
+185 silly gentlyRm /Users/johnpatsos/.npm/glogg is being purged
+186 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/glogg
+187 silly gentlyRm /Users/johnpatsos/.npm/graceful-fs is being purged
+188 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/graceful-fs
+189 silly gentlyRm /Users/johnpatsos/.npm/graceful-readlink is being purged
+190 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/graceful-readlink
+191 silly gentlyRm /Users/johnpatsos/.npm/growl is being purged
+192 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/growl
+193 silly gentlyRm /Users/johnpatsos/.npm/grunt-cli is being purged
+194 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/grunt-cli
+195 silly gentlyRm /Users/johnpatsos/.npm/gulp is being purged
+196 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/gulp
+197 silly gentlyRm /Users/johnpatsos/.npm/gulp-compass is being purged
+198 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/gulp-compass
+199 silly gentlyRm /Users/johnpatsos/.npm/gulp-concat is being purged
+200 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/gulp-concat
+201 silly gentlyRm /Users/johnpatsos/.npm/gulp-cssimport is being purged
+202 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/gulp-cssimport
+203 silly gentlyRm /Users/johnpatsos/.npm/gulp-jshint is being purged
+204 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/gulp-jshint
+205 silly gentlyRm /Users/johnpatsos/.npm/gulp-load-plugins is being purged
+206 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/gulp-load-plugins
+207 silly gentlyRm /Users/johnpatsos/.npm/gulp-rename is being purged
+208 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/gulp-rename
+209 silly gentlyRm /Users/johnpatsos/.npm/gulp-sass is being purged
+210 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/gulp-sass
+211 silly gentlyRm /Users/johnpatsos/.npm/gulp-uglify is being purged
+212 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/gulp-uglify
+213 silly gentlyRm /Users/johnpatsos/.npm/gulp-util is being purged
+214 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/gulp-util
+215 silly gentlyRm /Users/johnpatsos/.npm/gulplog is being purged
+216 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/gulplog
+217 silly gentlyRm /Users/johnpatsos/.npm/har-validator is being purged
+218 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/har-validator
+219 silly gentlyRm /Users/johnpatsos/.npm/has-ansi is being purged
+220 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/has-ansi
+221 silly gentlyRm /Users/johnpatsos/.npm/has-gulplog is being purged
+222 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/has-gulplog
+223 silly gentlyRm /Users/johnpatsos/.npm/has-unicode is being purged
+224 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/has-unicode
+225 silly gentlyRm /Users/johnpatsos/.npm/hawk is being purged
+226 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/hawk
+227 silly gentlyRm /Users/johnpatsos/.npm/hoek is being purged
+228 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/hoek
+229 silly gentlyRm /Users/johnpatsos/.npm/hosted-git-info is being purged
+230 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/hosted-git-info
+231 silly gentlyRm /Users/johnpatsos/.npm/htmlparser2 is being purged
+232 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/htmlparser2
+233 silly gentlyRm /Users/johnpatsos/.npm/http-https is being purged
+234 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/http-https
+235 silly gentlyRm /Users/johnpatsos/.npm/http-signature is being purged
+236 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/http-signature
+237 silly gentlyRm /Users/johnpatsos/.npm/indent-string is being purged
+238 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/indent-string
+239 silly gentlyRm /Users/johnpatsos/.npm/inflight is being purged
+240 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/inflight
+241 silly gentlyRm /Users/johnpatsos/.npm/inherits is being purged
+242 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/inherits
+243 silly gentlyRm /Users/johnpatsos/.npm/ini is being purged
+244 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/ini
+245 silly gentlyRm /Users/johnpatsos/.npm/interpret is being purged
+246 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/interpret
+247 silly gentlyRm /Users/johnpatsos/.npm/invert-kv is being purged
+248 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/invert-kv
+249 silly gentlyRm /Users/johnpatsos/.npm/is-absolute is being purged
+250 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/is-absolute
+251 silly gentlyRm /Users/johnpatsos/.npm/is-arrayish is being purged
+252 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/is-arrayish
+253 silly gentlyRm /Users/johnpatsos/.npm/is-buffer is being purged
+254 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/is-buffer
+255 silly gentlyRm /Users/johnpatsos/.npm/is-builtin-module is being purged
+256 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/is-builtin-module
+257 silly gentlyRm /Users/johnpatsos/.npm/is-finite is being purged
+258 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/is-finite
+259 silly gentlyRm /Users/johnpatsos/.npm/is-fullwidth-code-point is being purged
+260 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/is-fullwidth-code-point
+261 silly gentlyRm /Users/johnpatsos/.npm/is-my-json-valid is being purged
+262 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/is-my-json-valid
+263 silly gentlyRm /Users/johnpatsos/.npm/is-property is being purged
+264 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/is-property
+265 silly gentlyRm /Users/johnpatsos/.npm/is-relative is being purged
+266 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/is-relative
+267 silly gentlyRm /Users/johnpatsos/.npm/is-utf8 is being purged
+268 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/is-utf8
+269 silly gentlyRm /Users/johnpatsos/.npm/isarray is being purged
+270 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/isarray
+271 silly gentlyRm /Users/johnpatsos/.npm/isobject is being purged
+272 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/isobject
+273 silly gentlyRm /Users/johnpatsos/.npm/isstream is being purged
+274 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/isstream
+275 silly gentlyRm /Users/johnpatsos/.npm/jade is being purged
+276 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/jade
+277 silly gentlyRm /Users/johnpatsos/.npm/js-beautify is being purged
+278 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/js-beautify
+279 silly gentlyRm /Users/johnpatsos/.npm/jshint is being purged
+280 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/jshint
+281 silly gentlyRm /Users/johnpatsos/.npm/json-stringify-safe is being purged
+282 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/json-stringify-safe
+283 silly gentlyRm /Users/johnpatsos/.npm/jsonpointer is being purged
+284 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/jsonpointer
+285 silly gentlyRm /Users/johnpatsos/.npm/kind-of is being purged
+286 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/kind-of
+287 silly gentlyRm /Users/johnpatsos/.npm/lazy-cache is being purged
+288 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/lazy-cache
+289 silly gentlyRm /Users/johnpatsos/.npm/lcid is being purged
+290 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/lcid
+291 silly gentlyRm /Users/johnpatsos/.npm/liftoff is being purged
+292 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/liftoff
+293 silly gentlyRm /Users/johnpatsos/.npm/load-json-file is being purged
+294 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/load-json-file
+295 silly gentlyRm /Users/johnpatsos/.npm/lodash is being purged
+296 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/lodash
+297 silly gentlyRm /Users/johnpatsos/.npm/lodash._basecopy is being purged
+298 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/lodash._basecopy
+299 silly gentlyRm /Users/johnpatsos/.npm/lodash._basetostring is being purged
+300 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/lodash._basetostring
+301 silly gentlyRm /Users/johnpatsos/.npm/lodash._basevalues is being purged
+302 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/lodash._basevalues
+303 silly gentlyRm /Users/johnpatsos/.npm/lodash._createpadding is being purged
+304 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/lodash._createpadding
+305 silly gentlyRm /Users/johnpatsos/.npm/lodash._escapehtmlchar is being purged
+306 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/lodash._escapehtmlchar
+307 silly gentlyRm /Users/johnpatsos/.npm/lodash._escapestringchar is being purged
+308 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/lodash._escapestringchar
+309 silly gentlyRm /Users/johnpatsos/.npm/lodash._getnative is being purged
+310 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/lodash._getnative
+311 silly gentlyRm /Users/johnpatsos/.npm/lodash._htmlescapes is being purged
+312 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/lodash._htmlescapes
+313 silly gentlyRm /Users/johnpatsos/.npm/lodash._isiterateecall is being purged
+314 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/lodash._isiterateecall
+315 silly gentlyRm /Users/johnpatsos/.npm/lodash._isnative is being purged
+316 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/lodash._isnative
+317 silly gentlyRm /Users/johnpatsos/.npm/lodash._objecttypes is being purged
+318 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/lodash._objecttypes
+319 silly gentlyRm /Users/johnpatsos/.npm/lodash._reescape is being purged
+320 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/lodash._reescape
+321 silly gentlyRm /Users/johnpatsos/.npm/lodash._reevaluate is being purged
+322 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/lodash._reevaluate
+323 silly gentlyRm /Users/johnpatsos/.npm/lodash._reinterpolate is being purged
+324 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/lodash._reinterpolate
+325 silly gentlyRm /Users/johnpatsos/.npm/lodash._reunescapedhtml is being purged
+326 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/lodash._reunescapedhtml
+327 silly gentlyRm /Users/johnpatsos/.npm/lodash._shimkeys is being purged
+328 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/lodash._shimkeys
+329 silly gentlyRm /Users/johnpatsos/.npm/lodash.defaults is being purged
+330 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/lodash.defaults
+331 silly gentlyRm /Users/johnpatsos/.npm/lodash.escape is being purged
+332 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/lodash.escape
+333 silly gentlyRm /Users/johnpatsos/.npm/lodash.isarguments is being purged
+334 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/lodash.isarguments
+335 silly gentlyRm /Users/johnpatsos/.npm/lodash.isarray is being purged
+336 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/lodash.isarray
+337 silly gentlyRm /Users/johnpatsos/.npm/lodash.isobject is being purged
+338 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/lodash.isobject
+339 silly gentlyRm /Users/johnpatsos/.npm/lodash.keys is being purged
+340 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/lodash.keys
+341 silly gentlyRm /Users/johnpatsos/.npm/lodash.pad is being purged
+342 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/lodash.pad
+343 silly gentlyRm /Users/johnpatsos/.npm/lodash.padleft is being purged
+344 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/lodash.padleft
+345 silly gentlyRm /Users/johnpatsos/.npm/lodash.padright is being purged
+346 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/lodash.padright
+347 silly gentlyRm /Users/johnpatsos/.npm/lodash.repeat is being purged
+348 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/lodash.repeat
+349 silly gentlyRm /Users/johnpatsos/.npm/lodash.restparam is being purged
+350 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/lodash.restparam
+351 silly gentlyRm /Users/johnpatsos/.npm/lodash.template is being purged
+352 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/lodash.template
+353 silly gentlyRm /Users/johnpatsos/.npm/lodash.templatesettings is being purged
+354 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/lodash.templatesettings
+355 silly gentlyRm /Users/johnpatsos/.npm/lodash.values is being purged
+356 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/lodash.values
+357 silly gentlyRm /Users/johnpatsos/.npm/longest is being purged
+358 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/longest
+359 silly gentlyRm /Users/johnpatsos/.npm/loud-rejection is being purged
+360 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/loud-rejection
+361 silly gentlyRm /Users/johnpatsos/.npm/lru-cache is being purged
+362 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/lru-cache
+363 silly gentlyRm /Users/johnpatsos/.npm/map-obj is being purged
+364 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/map-obj
+365 silly gentlyRm /Users/johnpatsos/.npm/meow is being purged
+366 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/meow
+367 silly gentlyRm /Users/johnpatsos/.npm/mime is being purged
+368 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/mime
+369 silly gentlyRm /Users/johnpatsos/.npm/mime-db is being purged
+370 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/mime-db
+371 silly gentlyRm /Users/johnpatsos/.npm/mime-types is being purged
+372 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/mime-types
+373 silly gentlyRm /Users/johnpatsos/.npm/minimatch is being purged
+374 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/minimatch
+375 silly gentlyRm /Users/johnpatsos/.npm/minimist is being purged
+376 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/minimist
+377 silly gentlyRm /Users/johnpatsos/.npm/mkdirp is being purged
+378 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/mkdirp
+379 silly gentlyRm /Users/johnpatsos/.npm/mocha is being purged
+380 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/mocha
+381 silly gentlyRm /Users/johnpatsos/.npm/ms is being purged
+382 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/ms
+383 silly gentlyRm /Users/johnpatsos/.npm/multimatch is being purged
+384 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/multimatch
+385 silly gentlyRm /Users/johnpatsos/.npm/multipipe is being purged
+386 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/multipipe
+387 silly gentlyRm /Users/johnpatsos/.npm/nan is being purged
+388 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/nan
+389 silly gentlyRm /Users/johnpatsos/.npm/node-gyp is being purged
+390 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/node-gyp
+391 silly gentlyRm /Users/johnpatsos/.npm/node-sass is being purged
+392 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/node-sass
+393 silly gentlyRm /Users/johnpatsos/.npm/node-uuid is being purged
+394 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/node-uuid
+395 silly gentlyRm /Users/johnpatsos/.npm/nopt is being purged
+396 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/nopt
+397 silly gentlyRm /Users/johnpatsos/.npm/normalize-package-data is being purged
+398 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/normalize-package-data
+399 silly gentlyRm /Users/johnpatsos/.npm/npmconf is being purged
+400 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/npmconf
+401 silly gentlyRm /Users/johnpatsos/.npm/npmlog is being purged
+402 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/npmlog
+403 silly gentlyRm /Users/johnpatsos/.npm/number-is-nan is being purged
+404 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/number-is-nan
+405 silly gentlyRm /Users/johnpatsos/.npm/oauth-sign is being purged
+406 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/oauth-sign
+407 silly gentlyRm /Users/johnpatsos/.npm/object-assign is being purged
+408 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/object-assign
+409 silly gentlyRm /Users/johnpatsos/.npm/object-keys is being purged
+410 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/object-keys
+411 silly gentlyRm /Users/johnpatsos/.npm/once is being purged
+412 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/once
+413 silly gentlyRm /Users/johnpatsos/.npm/orchestrator is being purged
+414 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/orchestrator
+415 silly gentlyRm /Users/johnpatsos/.npm/ordered-read-streams is being purged
+416 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/ordered-read-streams
+417 silly gentlyRm /Users/johnpatsos/.npm/os-homedir is being purged
+418 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/os-homedir
+419 silly gentlyRm /Users/johnpatsos/.npm/os-locale is being purged
+420 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/os-locale
+421 silly gentlyRm /Users/johnpatsos/.npm/os-shim is being purged
+422 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/os-shim
+423 silly gentlyRm /Users/johnpatsos/.npm/os-tmpdir is being purged
+424 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/os-tmpdir
+425 silly gentlyRm /Users/johnpatsos/.npm/osenv is being purged
+426 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/osenv
+427 silly gentlyRm /Users/johnpatsos/.npm/parse-json is being purged
+428 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/parse-json
+429 silly gentlyRm /Users/johnpatsos/.npm/path-array is being purged
+430 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/path-array
+431 silly gentlyRm /Users/johnpatsos/.npm/path-exists is being purged
+432 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/path-exists
+433 silly gentlyRm /Users/johnpatsos/.npm/path-is-absolute is being purged
+434 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/path-is-absolute
+435 silly gentlyRm /Users/johnpatsos/.npm/path-type is being purged
+436 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/path-type
+437 silly gentlyRm /Users/johnpatsos/.npm/phpfn is being purged
+438 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/phpfn
+439 silly gentlyRm /Users/johnpatsos/.npm/phpjs is being purged
+440 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/phpjs
+441 silly gentlyRm /Users/johnpatsos/.npm/pify is being purged
+442 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/pify
+443 silly gentlyRm /Users/johnpatsos/.npm/pinkie is being purged
+444 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/pinkie
+445 silly gentlyRm /Users/johnpatsos/.npm/pinkie-promise is being purged
+446 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/pinkie-promise
+447 silly gentlyRm /Users/johnpatsos/.npm/pretty-hrtime is being purged
+448 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/pretty-hrtime
+449 silly gentlyRm /Users/johnpatsos/.npm/process-nextick-args is being purged
+450 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/process-nextick-args
+451 silly gentlyRm /Users/johnpatsos/.npm/proto-list is being purged
+452 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/proto-list
+453 silly gentlyRm /Users/johnpatsos/.npm/qs is being purged
+454 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/qs
+455 silly gentlyRm /Users/johnpatsos/.npm/range-parser is being purged
+456 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/range-parser
+457 silly gentlyRm /Users/johnpatsos/.npm/rcfinder is being purged
+458 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/rcfinder
+459 silly gentlyRm /Users/johnpatsos/.npm/rcloader is being purged
+460 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/rcloader
+461 silly gentlyRm /Users/johnpatsos/.npm/read-pkg is being purged
+462 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/read-pkg
+463 silly gentlyRm /Users/johnpatsos/.npm/read-pkg-up is being purged
+464 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/read-pkg-up
+465 silly gentlyRm /Users/johnpatsos/.npm/readable-stream is being purged
+466 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/readable-stream
+467 silly gentlyRm /Users/johnpatsos/.npm/rechoir is being purged
+468 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/rechoir
+469 silly gentlyRm /Users/johnpatsos/.npm/redent is being purged
+470 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/redent
+471 silly gentlyRm /Users/johnpatsos/.npm/registry.npmjs.org is being purged
+472 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/registry.npmjs.org
+473 silly gentlyRm /Users/johnpatsos/.npm/repeat-string is being purged
+474 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/repeat-string
+475 silly gentlyRm /Users/johnpatsos/.npm/repeating is being purged
+476 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/repeating
+477 silly gentlyRm /Users/johnpatsos/.npm/replace-ext is being purged
+478 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/replace-ext
+479 silly gentlyRm /Users/johnpatsos/.npm/request is being purged
+480 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/request
+481 silly gentlyRm /Users/johnpatsos/.npm/resolve is being purged
+482 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/resolve
+483 silly gentlyRm /Users/johnpatsos/.npm/right-align is being purged
+484 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/right-align
+485 silly gentlyRm /Users/johnpatsos/.npm/rimraf is being purged
+486 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/rimraf
+487 silly gentlyRm /Users/johnpatsos/.npm/sass-graph is being purged
+488 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/sass-graph
+489 silly gentlyRm /Users/johnpatsos/.npm/semver is being purged
+490 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/semver
+491 silly gentlyRm /Users/johnpatsos/.npm/send is being purged
+492 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/send
+493 silly gentlyRm /Users/johnpatsos/.npm/sequencify is being purged
+494 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/sequencify
+495 silly gentlyRm /Users/johnpatsos/.npm/shelljs is being purged
+496 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/shelljs
+497 silly gentlyRm /Users/johnpatsos/.npm/sigmund is being purged
+498 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/sigmund
+499 silly gentlyRm /Users/johnpatsos/.npm/signal-exit is being purged
+500 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/signal-exit
+501 silly gentlyRm /Users/johnpatsos/.npm/sntp is being purged
+502 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/sntp
+503 silly gentlyRm /Users/johnpatsos/.npm/source-map is being purged
+504 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/source-map
+505 silly gentlyRm /Users/johnpatsos/.npm/sparkles is being purged
+506 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/sparkles
+507 silly gentlyRm /Users/johnpatsos/.npm/spawn-sync is being purged
+508 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/spawn-sync
+509 silly gentlyRm /Users/johnpatsos/.npm/spdx-correct is being purged
+510 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/spdx-correct
+511 silly gentlyRm /Users/johnpatsos/.npm/spdx-exceptions is being purged
+512 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/spdx-exceptions
+513 silly gentlyRm /Users/johnpatsos/.npm/spdx-expression-parse is being purged
+514 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/spdx-expression-parse
+515 silly gentlyRm /Users/johnpatsos/.npm/spdx-license-ids is being purged
+516 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/spdx-license-ids
+517 silly gentlyRm /Users/johnpatsos/.npm/stream-consume is being purged
+518 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/stream-consume
+519 silly gentlyRm /Users/johnpatsos/.npm/string-width is being purged
+520 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/string-width
+521 silly gentlyRm /Users/johnpatsos/.npm/string_decoder is being purged
+522 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/string_decoder
+523 silly gentlyRm /Users/johnpatsos/.npm/stringstream is being purged
+524 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/stringstream
+525 silly gentlyRm /Users/johnpatsos/.npm/strip-ansi is being purged
+526 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/strip-ansi
+527 silly gentlyRm /Users/johnpatsos/.npm/strip-bom is being purged
+528 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/strip-bom
+529 silly gentlyRm /Users/johnpatsos/.npm/strip-indent is being purged
+530 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/strip-indent
+531 silly gentlyRm /Users/johnpatsos/.npm/strip-json-comments is being purged
+532 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/strip-json-comments
+533 silly gentlyRm /Users/johnpatsos/.npm/supports-color is being purged
+534 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/supports-color
+535 silly gentlyRm /Users/johnpatsos/.npm/tar is being purged
+536 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/tar
+537 silly gentlyRm /Users/johnpatsos/.npm/through2 is being purged
+538 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/through2
+539 silly gentlyRm /Users/johnpatsos/.npm/tildify is being purged
+540 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/tildify
+541 silly gentlyRm /Users/johnpatsos/.npm/tough-cookie is being purged
+542 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/tough-cookie
+543 silly gentlyRm /Users/johnpatsos/.npm/trim-newlines is being purged
+544 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/trim-newlines
+545 silly gentlyRm /Users/johnpatsos/.npm/tunnel-agent is being purged
+546 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/tunnel-agent
+547 silly gentlyRm /Users/johnpatsos/.npm/typedarray is being purged
+548 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/typedarray
+549 silly gentlyRm /Users/johnpatsos/.npm/uglify-js is being purged
+550 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/uglify-js
+551 silly gentlyRm /Users/johnpatsos/.npm/uglify-save-license is being purged
+552 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/uglify-save-license
+553 silly gentlyRm /Users/johnpatsos/.npm/uglify-to-browserify is being purged
+554 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/uglify-to-browserify
+555 silly gentlyRm /Users/johnpatsos/.npm/uid-number is being purged
+556 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/uid-number
+557 silly gentlyRm /Users/johnpatsos/.npm/underscore is being purged
+558 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/underscore
+559 silly gentlyRm /Users/johnpatsos/.npm/unique-stream is being purged
+560 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/unique-stream
+561 silly gentlyRm /Users/johnpatsos/.npm/user-home is being purged
+562 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/user-home
+563 silly gentlyRm /Users/johnpatsos/.npm/util-deprecate is being purged
+564 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/util-deprecate
+565 silly gentlyRm /Users/johnpatsos/.npm/v8flags is being purged
+566 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/v8flags
+567 silly gentlyRm /Users/johnpatsos/.npm/validate-npm-package-license is being purged
+568 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/validate-npm-package-license
+569 silly gentlyRm /Users/johnpatsos/.npm/vinyl is being purged
+570 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/vinyl
+571 silly gentlyRm /Users/johnpatsos/.npm/vinyl-fs is being purged
+572 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/vinyl-fs
+573 silly gentlyRm /Users/johnpatsos/.npm/vinyl-sourcemaps-apply is being purged
+574 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/vinyl-sourcemaps-apply
+575 silly gentlyRm /Users/johnpatsos/.npm/which is being purged
+576 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/which
+577 silly gentlyRm /Users/johnpatsos/.npm/window-size is being purged
+578 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/window-size
+579 silly gentlyRm /Users/johnpatsos/.npm/wordwrap is being purged
+580 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/wordwrap
+581 silly gentlyRm /Users/johnpatsos/.npm/wrap-ansi is being purged
+582 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/wrap-ansi
+583 silly gentlyRm /Users/johnpatsos/.npm/wrappy is being purged
+584 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/wrappy
+585 silly gentlyRm /Users/johnpatsos/.npm/xtend is being purged
+586 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/xtend
+587 silly gentlyRm /Users/johnpatsos/.npm/y18n is being purged
+588 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/y18n
+589 silly gentlyRm /Users/johnpatsos/.npm/yargs is being purged
+590 verbose gentlyRm don't care about contents; nuking /Users/johnpatsos/.npm/yargs
+591 silly vacuum-fs purging /Users/johnpatsos/.npm/_locks
+592 silly vacuum-fs purging /Users/johnpatsos/.npm/abbrev
+593 silly vacuum-fs purging /Users/johnpatsos/.npm/align-text
+594 silly vacuum-fs purging /Users/johnpatsos/.npm/ansi
+595 silly vacuum-fs purging /Users/johnpatsos/.npm/ansi-regex
+596 silly vacuum-fs purging /Users/johnpatsos/.npm/ansi-styles
+597 silly vacuum-fs purging /Users/johnpatsos/.npm/archy
+598 silly vacuum-fs purging /Users/johnpatsos/.npm/are-we-there-yet
+599 silly vacuum-fs purging /Users/johnpatsos/.npm/array-differ
+600 silly vacuum-fs purging /Users/johnpatsos/.npm/array-index
+601 silly vacuum-fs purging /Users/johnpatsos/.npm/array-union
+602 silly vacuum-fs purging /Users/johnpatsos/.npm/array-uniq
+603 silly vacuum-fs purging /Users/johnpatsos/.npm/asn1
+604 silly vacuum-fs purging /Users/johnpatsos/.npm/assert-plus
+605 silly vacuum-fs purging /Users/johnpatsos/.npm/async
+606 silly vacuum-fs purging /Users/johnpatsos/.npm/async-foreach
+607 silly vacuum-fs purging /Users/johnpatsos/.npm/aws-sign2
+608 silly vacuum-fs purging /Users/johnpatsos/.npm/balanced-match
+609 silly vacuum-fs purging /Users/johnpatsos/.npm/beeper
+610 silly vacuum-fs purging /Users/johnpatsos/.npm/bl
+611 silly vacuum-fs purging /Users/johnpatsos/.npm/block-stream
+612 silly vacuum-fs purging /Users/johnpatsos/.npm/boom
+613 silly vacuum-fs purging /Users/johnpatsos/.npm/brace-expansion
+614 silly vacuum-fs purging /Users/johnpatsos/.npm/builtin-modules
+615 silly vacuum-fs purging /Users/johnpatsos/.npm/camelcase
+616 silly vacuum-fs purging /Users/johnpatsos/.npm/camelcase-keys
+617 silly vacuum-fs purging /Users/johnpatsos/.npm/caseless
+618 silly vacuum-fs purging /Users/johnpatsos/.npm/center-align
+619 silly vacuum-fs purging /Users/johnpatsos/.npm/chalk
+620 silly vacuum-fs purging /Users/johnpatsos/.npm/cli
+621 silly vacuum-fs purging /Users/johnpatsos/.npm/cliui
+622 silly vacuum-fs purging /Users/johnpatsos/.npm/clone
+623 silly vacuum-fs purging /Users/johnpatsos/.npm/clone-stats
+624 silly vacuum-fs purging /Users/johnpatsos/.npm/code-point-at
+625 silly vacuum-fs purging /Users/johnpatsos/.npm/collect-stream
+626 silly vacuum-fs purging /Users/johnpatsos/.npm/combined-stream
+627 silly vacuum-fs purging /Users/johnpatsos/.npm/commander
+628 silly vacuum-fs purging /Users/johnpatsos/.npm/concat-map
+629 silly vacuum-fs purging /Users/johnpatsos/.npm/concat-stream
+630 silly vacuum-fs purging /Users/johnpatsos/.npm/concat-with-sourcemaps
+631 silly vacuum-fs purging /Users/johnpatsos/.npm/config-chain
+632 silly vacuum-fs purging /Users/johnpatsos/.npm/console-browserify
+633 silly vacuum-fs purging /Users/johnpatsos/.npm/core-util-is
+634 silly vacuum-fs purging /Users/johnpatsos/.npm/cross-spawn
+635 silly vacuum-fs purging /Users/johnpatsos/.npm/cross-spawn-async
+636 silly vacuum-fs purging /Users/johnpatsos/.npm/cryptiles
+637 silly vacuum-fs purging /Users/johnpatsos/.npm/ctype
+638 silly vacuum-fs purging /Users/johnpatsos/.npm/date-now
+639 silly vacuum-fs purging /Users/johnpatsos/.npm/dateformat
+640 silly vacuum-fs purging /Users/johnpatsos/.npm/deap
+641 silly vacuum-fs purging /Users/johnpatsos/.npm/debug
+642 silly vacuum-fs purging /Users/johnpatsos/.npm/decamelize
+643 silly vacuum-fs purging /Users/johnpatsos/.npm/deep-equal
+644 silly vacuum-fs purging /Users/johnpatsos/.npm/deep-extend
+645 silly vacuum-fs purging /Users/johnpatsos/.npm/defaults
+646 silly vacuum-fs purging /Users/johnpatsos/.npm/delayed-stream
+647 silly vacuum-fs purging /Users/johnpatsos/.npm/delegates
+648 silly vacuum-fs purging /Users/johnpatsos/.npm/deprecated
+649 silly vacuum-fs purging /Users/johnpatsos/.npm/diff
+650 silly vacuum-fs purging /Users/johnpatsos/.npm/dom-serializer
+651 silly vacuum-fs purging /Users/johnpatsos/.npm/domelementtype
+652 silly vacuum-fs purging /Users/johnpatsos/.npm/domhandler
+653 silly vacuum-fs purging /Users/johnpatsos/.npm/domutils
+654 silly vacuum-fs purging /Users/johnpatsos/.npm/duplexer2
+655 silly vacuum-fs purging /Users/johnpatsos/.npm/end-of-stream
+656 silly vacuum-fs purging /Users/johnpatsos/.npm/entities
+657 silly vacuum-fs purging /Users/johnpatsos/.npm/error-ex
+658 silly vacuum-fs purging /Users/johnpatsos/.npm/escape-string-regexp
+659 silly vacuum-fs purging /Users/johnpatsos/.npm/exit
+660 silly vacuum-fs purging /Users/johnpatsos/.npm/extend
+661 silly vacuum-fs purging /Users/johnpatsos/.npm/fancy-log
+662 silly vacuum-fs purging /Users/johnpatsos/.npm/find-index
+663 silly vacuum-fs purging /Users/johnpatsos/.npm/find-up
+664 silly vacuum-fs purging /Users/johnpatsos/.npm/findup-sync
+665 silly vacuum-fs purging /Users/johnpatsos/.npm/first-chunk-stream
+666 silly vacuum-fs purging /Users/johnpatsos/.npm/flagged-respawn
+667 silly vacuum-fs purging /Users/johnpatsos/.npm/forever-agent
+668 silly vacuum-fs purging /Users/johnpatsos/.npm/form-data
+669 silly vacuum-fs purging /Users/johnpatsos/.npm/fresh
+670 silly vacuum-fs purging /Users/johnpatsos/.npm/fstream
+671 silly vacuum-fs purging /Users/johnpatsos/.npm/gauge
+672 silly vacuum-fs purging /Users/johnpatsos/.npm/gaze
+673 silly vacuum-fs purging /Users/johnpatsos/.npm/generate-function
+674 silly vacuum-fs purging /Users/johnpatsos/.npm/generate-object-property
+675 silly vacuum-fs purging /Users/johnpatsos/.npm/get-stdin
+676 silly vacuum-fs purging /Users/johnpatsos/.npm/glob
+677 silly vacuum-fs purging /Users/johnpatsos/.npm/glob-stream
+678 silly vacuum-fs purging /Users/johnpatsos/.npm/glob-watcher
+679 silly vacuum-fs purging /Users/johnpatsos/.npm/glob2base
+680 silly vacuum-fs purging /Users/johnpatsos/.npm/globule
+681 silly vacuum-fs purging /Users/johnpatsos/.npm/glogg
+682 silly vacuum-fs purging /Users/johnpatsos/.npm/graceful-fs
+683 silly vacuum-fs purging /Users/johnpatsos/.npm/graceful-readlink
+684 silly vacuum-fs purging /Users/johnpatsos/.npm/growl
+685 silly vacuum-fs purging /Users/johnpatsos/.npm/grunt-cli
+686 silly vacuum-fs purging /Users/johnpatsos/.npm/gulp
+687 silly vacuum-fs purging /Users/johnpatsos/.npm/gulp-compass
+688 silly vacuum-fs purging /Users/johnpatsos/.npm/gulp-concat
+689 silly vacuum-fs purging /Users/johnpatsos/.npm/gulp-cssimport
+690 silly vacuum-fs purging /Users/johnpatsos/.npm/gulp-jshint
+691 silly vacuum-fs purging /Users/johnpatsos/.npm/gulp-load-plugins
+692 silly vacuum-fs purging /Users/johnpatsos/.npm/gulp-rename
+693 silly vacuum-fs purging /Users/johnpatsos/.npm/gulp-sass
+694 silly vacuum-fs purging /Users/johnpatsos/.npm/gulp-uglify
+695 silly vacuum-fs purging /Users/johnpatsos/.npm/gulp-util
+696 silly vacuum-fs purging /Users/johnpatsos/.npm/gulplog
+697 silly vacuum-fs purging /Users/johnpatsos/.npm/har-validator
+698 silly vacuum-fs purging /Users/johnpatsos/.npm/has-ansi
+699 silly vacuum-fs purging /Users/johnpatsos/.npm/has-gulplog
+700 silly vacuum-fs purging /Users/johnpatsos/.npm/has-unicode
+701 silly vacuum-fs purging /Users/johnpatsos/.npm/hawk
+702 silly vacuum-fs purging /Users/johnpatsos/.npm/hoek
+703 silly vacuum-fs purging /Users/johnpatsos/.npm/hosted-git-info
+704 silly vacuum-fs purging /Users/johnpatsos/.npm/htmlparser2
+705 silly vacuum-fs purging /Users/johnpatsos/.npm/http-https
+706 silly vacuum-fs purging /Users/johnpatsos/.npm/http-signature
+707 silly vacuum-fs purging /Users/johnpatsos/.npm/indent-string
+708 silly vacuum-fs purging /Users/johnpatsos/.npm/inflight
+709 silly vacuum-fs purging /Users/johnpatsos/.npm/inherits
+710 silly vacuum-fs purging /Users/johnpatsos/.npm/ini
+711 silly vacuum-fs purging /Users/johnpatsos/.npm/interpret
+712 silly vacuum-fs purging /Users/johnpatsos/.npm/invert-kv
+713 silly vacuum-fs purging /Users/johnpatsos/.npm/is-absolute
+714 silly vacuum-fs purging /Users/johnpatsos/.npm/is-arrayish
+715 silly vacuum-fs purging /Users/johnpatsos/.npm/is-buffer
+716 silly vacuum-fs purging /Users/johnpatsos/.npm/is-builtin-module
+717 silly vacuum-fs purging /Users/johnpatsos/.npm/is-finite
+718 silly vacuum-fs purging /Users/johnpatsos/.npm/is-fullwidth-code-point
+719 silly vacuum-fs purging /Users/johnpatsos/.npm/is-my-json-valid
+720 silly vacuum-fs purging /Users/johnpatsos/.npm/is-property
+721 silly vacuum-fs purging /Users/johnpatsos/.npm/is-relative
+722 silly vacuum-fs purging /Users/johnpatsos/.npm/is-utf8
+723 silly vacuum-fs purging /Users/johnpatsos/.npm/isarray
+724 silly vacuum-fs purging /Users/johnpatsos/.npm/isobject
+725 silly vacuum-fs purging /Users/johnpatsos/.npm/isstream
+726 silly vacuum-fs purging /Users/johnpatsos/.npm/jade
+727 silly vacuum-fs purging /Users/johnpatsos/.npm/js-beautify
+728 silly vacuum-fs purging /Users/johnpatsos/.npm/jshint
+729 silly vacuum-fs purging /Users/johnpatsos/.npm/json-stringify-safe
+730 silly vacuum-fs purging /Users/johnpatsos/.npm/jsonpointer
+731 silly vacuum-fs purging /Users/johnpatsos/.npm/kind-of
+732 silly vacuum-fs purging /Users/johnpatsos/.npm/lazy-cache
+733 silly vacuum-fs purging /Users/johnpatsos/.npm/lcid
+734 silly vacuum-fs purging /Users/johnpatsos/.npm/liftoff
+735 silly vacuum-fs purging /Users/johnpatsos/.npm/load-json-file
+736 silly vacuum-fs purging /Users/johnpatsos/.npm/lodash
+737 silly vacuum-fs purging /Users/johnpatsos/.npm/lodash._basecopy
+738 silly vacuum-fs purging /Users/johnpatsos/.npm/lodash._basetostring
+739 silly vacuum-fs purging /Users/johnpatsos/.npm/lodash._basevalues
+740 silly vacuum-fs purging /Users/johnpatsos/.npm/lodash._createpadding
+741 silly vacuum-fs purging /Users/johnpatsos/.npm/lodash._escapehtmlchar
+742 silly vacuum-fs purging /Users/johnpatsos/.npm/lodash._escapestringchar
+743 silly vacuum-fs purging /Users/johnpatsos/.npm/lodash._getnative
+744 silly vacuum-fs purging /Users/johnpatsos/.npm/lodash._htmlescapes
+745 silly vacuum-fs purging /Users/johnpatsos/.npm/lodash._isiterateecall
+746 silly vacuum-fs purging /Users/johnpatsos/.npm/lodash._isnative
+747 silly vacuum-fs purging /Users/johnpatsos/.npm/lodash._objecttypes
+748 silly vacuum-fs purging /Users/johnpatsos/.npm/lodash._reescape
+749 silly vacuum-fs purging /Users/johnpatsos/.npm/lodash._reevaluate
+750 silly vacuum-fs purging /Users/johnpatsos/.npm/lodash._reinterpolate
+751 silly vacuum-fs purging /Users/johnpatsos/.npm/lodash._reunescapedhtml
+752 silly vacuum-fs purging /Users/johnpatsos/.npm/lodash._shimkeys
+753 silly vacuum-fs purging /Users/johnpatsos/.npm/lodash.defaults
+754 silly vacuum-fs purging /Users/johnpatsos/.npm/lodash.escape
+755 silly vacuum-fs purging /Users/johnpatsos/.npm/lodash.isarguments
+756 silly vacuum-fs purging /Users/johnpatsos/.npm/lodash.isarray
+757 silly vacuum-fs purging /Users/johnpatsos/.npm/lodash.isobject
+758 silly vacuum-fs purging /Users/johnpatsos/.npm/lodash.keys
+759 silly vacuum-fs purging /Users/johnpatsos/.npm/lodash.pad
+760 silly vacuum-fs purging /Users/johnpatsos/.npm/lodash.padleft
+761 silly vacuum-fs purging /Users/johnpatsos/.npm/lodash.padright
+762 silly vacuum-fs purging /Users/johnpatsos/.npm/lodash.repeat
+763 silly vacuum-fs purging /Users/johnpatsos/.npm/lodash.restparam
+764 silly vacuum-fs purging /Users/johnpatsos/.npm/lodash.template
+765 silly vacuum-fs purging /Users/johnpatsos/.npm/lodash.templatesettings
+766 silly vacuum-fs purging /Users/johnpatsos/.npm/lodash.values
+767 silly vacuum-fs purging /Users/johnpatsos/.npm/longest
+768 silly vacuum-fs purging /Users/johnpatsos/.npm/loud-rejection
+769 silly vacuum-fs purging /Users/johnpatsos/.npm/lru-cache
+770 silly vacuum-fs purging /Users/johnpatsos/.npm/map-obj
+771 silly vacuum-fs purging /Users/johnpatsos/.npm/meow
+772 silly vacuum-fs purging /Users/johnpatsos/.npm/mime
+773 silly vacuum-fs purging /Users/johnpatsos/.npm/mime-db
+774 silly vacuum-fs purging /Users/johnpatsos/.npm/mime-types
+775 silly vacuum-fs purging /Users/johnpatsos/.npm/minimatch
+776 silly vacuum-fs purging /Users/johnpatsos/.npm/minimist
+777 silly vacuum-fs purging /Users/johnpatsos/.npm/mkdirp
+778 silly vacuum-fs purging /Users/johnpatsos/.npm/mocha
+779 silly vacuum-fs purging /Users/johnpatsos/.npm/ms
+780 silly vacuum-fs purging /Users/johnpatsos/.npm/multimatch
+781 silly vacuum-fs purging /Users/johnpatsos/.npm/multipipe
+782 silly vacuum-fs purging /Users/johnpatsos/.npm/nan
+783 silly vacuum-fs purging /Users/johnpatsos/.npm/node-gyp
+784 silly vacuum-fs purging /Users/johnpatsos/.npm/node-sass
+785 silly vacuum-fs purging /Users/johnpatsos/.npm/node-uuid
+786 silly vacuum-fs purging /Users/johnpatsos/.npm/nopt
+787 silly vacuum-fs purging /Users/johnpatsos/.npm/normalize-package-data
+788 silly vacuum-fs purging /Users/johnpatsos/.npm/npmconf
+789 silly vacuum-fs purging /Users/johnpatsos/.npm/npmlog
+790 silly vacuum-fs purging /Users/johnpatsos/.npm/number-is-nan
+791 silly vacuum-fs purging /Users/johnpatsos/.npm/oauth-sign
+792 silly vacuum-fs purging /Users/johnpatsos/.npm/object-assign
+793 silly vacuum-fs purging /Users/johnpatsos/.npm/object-keys
+794 silly vacuum-fs purging /Users/johnpatsos/.npm/once
+795 silly vacuum-fs purging /Users/johnpatsos/.npm/orchestrator
+796 silly vacuum-fs purging /Users/johnpatsos/.npm/ordered-read-streams
+797 silly vacuum-fs purging /Users/johnpatsos/.npm/os-homedir
+798 silly vacuum-fs purging /Users/johnpatsos/.npm/os-locale
+799 silly vacuum-fs purging /Users/johnpatsos/.npm/os-shim
+800 silly vacuum-fs purging /Users/johnpatsos/.npm/os-tmpdir
+801 silly vacuum-fs purging /Users/johnpatsos/.npm/osenv
+802 silly vacuum-fs purging /Users/johnpatsos/.npm/parse-json
+803 silly vacuum-fs purging /Users/johnpatsos/.npm/path-array
+804 silly vacuum-fs purging /Users/johnpatsos/.npm/path-exists
+805 silly vacuum-fs purging /Users/johnpatsos/.npm/path-is-absolute
+806 silly vacuum-fs purging /Users/johnpatsos/.npm/path-type
+807 silly vacuum-fs purging /Users/johnpatsos/.npm/phpfn
+808 silly vacuum-fs purging /Users/johnpatsos/.npm/phpjs
+809 silly vacuum-fs purging /Users/johnpatsos/.npm/pify
+810 silly vacuum-fs purging /Users/johnpatsos/.npm/pinkie
+811 silly vacuum-fs purging /Users/johnpatsos/.npm/pinkie-promise
+812 silly vacuum-fs purging /Users/johnpatsos/.npm/pretty-hrtime
+813 silly vacuum-fs purging /Users/johnpatsos/.npm/process-nextick-args
+814 silly vacuum-fs purging /Users/johnpatsos/.npm/proto-list
+815 silly vacuum-fs purging /Users/johnpatsos/.npm/qs
+816 silly vacuum-fs purging /Users/johnpatsos/.npm/range-parser
+817 silly vacuum-fs purging /Users/johnpatsos/.npm/rcfinder
+818 silly vacuum-fs purging /Users/johnpatsos/.npm/rcloader
+819 silly vacuum-fs purging /Users/johnpatsos/.npm/read-pkg
+820 silly vacuum-fs purging /Users/johnpatsos/.npm/read-pkg-up
+821 silly vacuum-fs purging /Users/johnpatsos/.npm/readable-stream
+822 silly vacuum-fs purging /Users/johnpatsos/.npm/rechoir
+823 silly vacuum-fs purging /Users/johnpatsos/.npm/redent
+824 silly vacuum-fs purging /Users/johnpatsos/.npm/registry.npmjs.org
+825 silly vacuum-fs purging /Users/johnpatsos/.npm/repeat-string
+826 silly vacuum-fs purging /Users/johnpatsos/.npm/repeating
+827 silly vacuum-fs purging /Users/johnpatsos/.npm/replace-ext
+828 silly vacuum-fs purging /Users/johnpatsos/.npm/request
+829 silly vacuum-fs purging /Users/johnpatsos/.npm/resolve
+830 silly vacuum-fs purging /Users/johnpatsos/.npm/right-align
+831 silly vacuum-fs purging /Users/johnpatsos/.npm/rimraf
+832 silly vacuum-fs purging /Users/johnpatsos/.npm/sass-graph
+833 silly vacuum-fs purging /Users/johnpatsos/.npm/semver
+834 silly vacuum-fs purging /Users/johnpatsos/.npm/send
+835 silly vacuum-fs purging /Users/johnpatsos/.npm/sequencify
+836 silly vacuum-fs purging /Users/johnpatsos/.npm/shelljs
+837 silly vacuum-fs purging /Users/johnpatsos/.npm/sigmund
+838 silly vacuum-fs purging /Users/johnpatsos/.npm/signal-exit
+839 silly vacuum-fs purging /Users/johnpatsos/.npm/sntp
+840 silly vacuum-fs purging /Users/johnpatsos/.npm/source-map
+841 silly vacuum-fs purging /Users/johnpatsos/.npm/sparkles
+842 silly vacuum-fs purging /Users/johnpatsos/.npm/spawn-sync
+843 silly vacuum-fs purging /Users/johnpatsos/.npm/spdx-correct
+844 silly vacuum-fs purging /Users/johnpatsos/.npm/spdx-exceptions
+845 silly vacuum-fs purging /Users/johnpatsos/.npm/spdx-expression-parse
+846 silly vacuum-fs purging /Users/johnpatsos/.npm/spdx-license-ids
+847 silly vacuum-fs purging /Users/johnpatsos/.npm/stream-consume
+848 silly vacuum-fs purging /Users/johnpatsos/.npm/string-width
+849 silly vacuum-fs purging /Users/johnpatsos/.npm/string_decoder
+850 silly vacuum-fs purging /Users/johnpatsos/.npm/stringstream
+851 silly vacuum-fs purging /Users/johnpatsos/.npm/strip-ansi
+852 silly vacuum-fs purging /Users/johnpatsos/.npm/strip-bom
+853 silly vacuum-fs purging /Users/johnpatsos/.npm/strip-indent
+854 silly vacuum-fs purging /Users/johnpatsos/.npm/strip-json-comments
+855 silly vacuum-fs purging /Users/johnpatsos/.npm/supports-color
+856 silly vacuum-fs purging /Users/johnpatsos/.npm/tar
+857 silly vacuum-fs purging /Users/johnpatsos/.npm/through2
+858 silly vacuum-fs purging /Users/johnpatsos/.npm/tildify
+859 silly vacuum-fs purging /Users/johnpatsos/.npm/tough-cookie
+860 silly vacuum-fs purging /Users/johnpatsos/.npm/trim-newlines
+861 silly vacuum-fs purging /Users/johnpatsos/.npm/tunnel-agent
+862 silly vacuum-fs purging /Users/johnpatsos/.npm/typedarray
+863 silly vacuum-fs purging /Users/johnpatsos/.npm/uglify-js
+864 silly vacuum-fs purging /Users/johnpatsos/.npm/uglify-save-license
+865 silly vacuum-fs purging /Users/johnpatsos/.npm/uglify-to-browserify
+866 silly vacuum-fs purging /Users/johnpatsos/.npm/uid-number
+867 silly vacuum-fs purging /Users/johnpatsos/.npm/underscore
+868 silly vacuum-fs purging /Users/johnpatsos/.npm/unique-stream
+869 silly vacuum-fs purging /Users/johnpatsos/.npm/user-home
+870 silly vacuum-fs purging /Users/johnpatsos/.npm/util-deprecate
+871 silly vacuum-fs purging /Users/johnpatsos/.npm/v8flags
+872 silly vacuum-fs purging /Users/johnpatsos/.npm/validate-npm-package-license
+873 silly vacuum-fs purging /Users/johnpatsos/.npm/vinyl
+874 silly vacuum-fs purging /Users/johnpatsos/.npm/vinyl-fs
+875 silly vacuum-fs purging /Users/johnpatsos/.npm/vinyl-sourcemaps-apply
+876 silly vacuum-fs purging /Users/johnpatsos/.npm/which
+877 silly vacuum-fs purging /Users/johnpatsos/.npm/window-size
+878 silly vacuum-fs purging /Users/johnpatsos/.npm/wordwrap
+879 silly vacuum-fs purging /Users/johnpatsos/.npm/wrap-ansi
+880 silly vacuum-fs purging /Users/johnpatsos/.npm/wrappy
+881 silly vacuum-fs purging /Users/johnpatsos/.npm/xtend
+882 silly vacuum-fs purging /Users/johnpatsos/.npm/y18n
+883 silly vacuum-fs purging /Users/johnpatsos/.npm/yargs
+884 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+885 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+886 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+887 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+888 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+889 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+890 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+891 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+892 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+893 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+894 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+895 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+896 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+897 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+898 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+899 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+900 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+901 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+902 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+903 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+904 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+905 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+906 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+907 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+908 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+909 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+910 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+911 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+912 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+913 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+914 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+915 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+916 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+917 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+918 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+919 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+920 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+921 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+922 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+923 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+924 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+925 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+926 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+927 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+928 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+929 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+930 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+931 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+932 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+933 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+934 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+935 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+936 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+937 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+938 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+939 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+940 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+941 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+942 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+943 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+944 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+945 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+946 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+947 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+948 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+949 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+950 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+951 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+952 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+953 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+954 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+955 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+956 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+957 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+958 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+959 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+960 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+961 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+962 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+963 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+964 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+965 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+966 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+967 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+968 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+969 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+970 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+971 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+972 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+973 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+974 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+975 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+976 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+977 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+978 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+979 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+980 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+981 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+982 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+983 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+984 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+985 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+986 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+987 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+988 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+989 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+990 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+991 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+992 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+993 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+994 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+995 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+996 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+997 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+998 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+999 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1000 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1001 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1002 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1003 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1004 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1005 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1006 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1007 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1008 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1009 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1010 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1011 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1012 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1013 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1014 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1015 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1016 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1017 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1018 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1019 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1020 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1021 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1022 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1023 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1024 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1025 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1026 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1027 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1028 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1029 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1030 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1031 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1032 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1033 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1034 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1035 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1036 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1037 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1038 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1039 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1040 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1041 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1042 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1043 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1044 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1045 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1046 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1047 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1048 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1049 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1050 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1051 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1052 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1053 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1054 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1055 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1056 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1057 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1058 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1059 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1060 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1061 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1062 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1063 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1064 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1065 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1066 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1067 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1068 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1069 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1070 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1071 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1072 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1073 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1074 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1075 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1076 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1077 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1078 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1079 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1080 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1081 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1082 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1083 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1084 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1085 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1086 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1087 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1088 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1089 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1090 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1091 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1092 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1093 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1094 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1095 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1096 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1097 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1098 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1099 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1100 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1101 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1102 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1103 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1104 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1105 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1106 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1107 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1108 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1109 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1110 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1111 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1112 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1113 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1114 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1115 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1116 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1117 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1118 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1119 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1120 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1121 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1122 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1123 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1124 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1125 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1126 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1127 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1128 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1129 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1130 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1131 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1132 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1133 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1134 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1135 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1136 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1137 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1138 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1139 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1140 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1141 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1142 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1143 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1144 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1145 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1146 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1147 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1148 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1149 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1150 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1151 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1152 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1153 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1154 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1155 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1156 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1157 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1158 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1159 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1160 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1161 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1162 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1163 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1164 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1165 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1166 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1167 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1168 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1169 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1170 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1171 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1172 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1173 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1174 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1175 silly vacuum-fs quitting because other entries in /Users/johnpatsos/.npm
+1176 verbose stack Error: EACCES: permission denied, rmdir '/Users/johnpatsos/.npm/vinyl/0.2.3'
+1176 verbose stack     at Error (native)
+1177 verbose cwd /Users/johnpatsos/Sites/sozo/wp-content/themes/patsos
+1178 error Darwin 14.5.0
+1179 error argv "/usr/local/bin/node" "/usr/local/bin/npm" "cache" "clean"
+1180 error node v4.2.2
+1181 error npm  v2.14.7
+1182 error path /Users/johnpatsos/.npm/vinyl/0.2.3
+1183 error code EACCES
+1184 error errno -13
+1185 error syscall rmdir
+1186 error Error: EACCES: permission denied, rmdir '/Users/johnpatsos/.npm/vinyl/0.2.3'
+1186 error     at Error (native)
+1186 error  { [Error: EACCES: permission denied, rmdir '/Users/johnpatsos/.npm/vinyl/0.2.3']
+1186 error   errno: -13,
+1186 error   code: 'EACCES',
+1186 error   syscall: 'rmdir',
+1186 error   path: '/Users/johnpatsos/.npm/vinyl/0.2.3' }
+1187 error Please try running this command again as root/Administrator.
+1188 verbose exit [ -13, true ]

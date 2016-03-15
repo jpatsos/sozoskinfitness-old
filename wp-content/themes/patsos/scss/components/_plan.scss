@@ -1,0 +1,52 @@
+// *************************************
+//
+//   Plan
+//   -> Individual style containers
+//
+// -------------------------------------
+
+
+.plan {
+	color: white;
+
+	&-1 {
+		background-color: #8a74b9;
+	}
+	&-2 {
+		background-color: #4cb992;
+	}
+	&-3 {
+		background-color: #3499e0;
+	}
+	&-4 {
+		background-color: #efb57c;
+	}
+	&-title {
+		display: block;
+		font-size: $b-fontSize-l;
+	}
+	
+	&-price {
+	    position: relative;
+	    display: block;
+	    height: 6rem;
+	    font-size: 5.5rem;
+	    line-height: 6.5rem;
+	    font-weight: 900;
+	    margin-bottom: .5rem;
+	    letter-spacing: -2px;
+	    // margin-left: -2.5rem;
+	}
+
+	&-details {
+		font-size: $b-fontSize-s;
+		opacity: .8;
+	}
+	.currency {
+	    position: relative;
+	    top: -1.75rem;
+	    font-weight: 400;
+	    font-size: 3rem;
+	    letter-spacing: 0;
+	}
+}

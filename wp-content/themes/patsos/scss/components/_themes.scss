@@ -1,0 +1,13 @@
+.theme {
+	&--a {
+		// padding: 4em 0;
+		background-color: $clr-blue-grey-800;
+		h1, h2, h3, h4 {
+			color: $blue;
+			color: $clr-indigo-300;
+		}
+		p {
+			color: $clr-grey-500;
+		}
+	}
+}

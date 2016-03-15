@@ -1,0 +1,81 @@
+// *************************************
+//
+//   Concern
+//   -> Individual style containers
+//
+// -------------------------------------
+
+@-webkit-keyframes concern-in {
+    from {
+        opacity: 0
+    }
+}
+@keyframes concern-in {
+    from {
+        opacity: 0
+    }
+}
+@-webkit-keyframes concern-content-in {
+    from {
+        opacity: 0;
+        -webkit-transform: translateY(0.5em);
+        transform: translateY(0.5em)
+    }
+}
+@keyframes concern-content-in {
+    from {
+        opacity: 0;
+        -webkit-transform: translateY(0.5em);
+        transform: translateY(0.5em)
+    }
+}
+
+
+// -------------------------------------
+//   Template (Haml)
+// -------------------------------------
+
+.concern {
+	text-align: center;
+	cursor: pointer;
+	h3 {
+		color: $clr-blue-grey-500;
+		text-transform: uppercase;
+		font-size: $b-fontSize;
+		font-weight: normal;
+		margin-top: $b-space-s;
+	}
+	&-media {
+		border-radius: 50%;
+		overflow: hidden;
+		width: 140px;
+	    height: 140px;
+	    display: inline-block;
+	    -webkit-mask-image: -webkit-radial-gradient(circle, white, black);
+	    img {
+    	    @include transition(transform 0.8s cubic-bezier(0.23, 1, 0.32, 1));
+	    }
+	}
+	&:hover {
+		.concern-media img {
+		    transform: scale(1.05);
+		}
+	}
+	&-content {
+		display: none;
+
+		-webkit-animation: concern-content 0.8s cubic-bezier(0.23, 1, 0.32, 1) backwards;
+	    animation: concern-content 0.8s cubic-bezier(0.23, 1, 0.32, 1) backwards;
+
+	    -webkit-animation-delay: 0.075s;
+	    animation-delay: 0.075s;
+
+		&.is-active {
+			display: block;
+		}
+
+		h3 {
+			font-size: 200%;
+		}
+	}
+}

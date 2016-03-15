@@ -1,0 +1,79 @@
+// *************************************
+//
+//   Card
+//   -> Individual style containers
+//
+// -------------------------------------
+//   Template (Haml)
+// -------------------------------------
+//
+// .card
+//   / ...
+//
+// *************************************
+
+// .card {
+//   background: $c-background-invert;
+//   border-radius: $b-borderRadius;
+//   box-shadow: $b-boxShadow;
+//   padding: $b-space;
+//   position: relative;
+// }
+
+
+.card {
+	position: relative;
+	overflow: hidden;
+	margin: 0.5rem 0 1rem 0;
+	background-color: #fff;
+	transition: box-shadow .25s;
+	border-radius: 0;
+    // box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    box-shadow: 0px 0px 1px 0 rgba(0, 0, 0, 0.16);
+
+    .card-image {
+        position: relative;
+        img {
+            // border-radius: 2px 2px 0 0;
+            position: relative;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            width: 100%;
+        }
+        .card-title {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            padding: 20px;
+        }
+    }
+    .card-title {
+        color: #fff;
+        font-size: 24px;
+        font-weight: 300;
+    }
+    .card-content {
+        padding: 20px;
+        border-radius: 0 0 2px 2px;
+        p {
+            margin: 0;
+            color: inherit;
+        }
+    }
+    .card-action {
+        border-top: 1px solid rgba(160, 160, 160, 0.2);
+        padding: 20px;
+        a {
+            color: $blue;
+            // margin-right: 20px;
+            -webkit-transition: color .3s ease;
+            -moz-transition: color .3s ease;
+            -o-transition: color .3s ease;
+            -ms-transition: color .3s ease;
+            transition: color .3s ease;
+            text-transform: uppercase;
+        }
+    }
+}
