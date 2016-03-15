@@ -1,0 +1,107 @@
+// *************************************
+//
+//   Tile
+//   -> Global utilities
+//
+// *************************************
+
+// -------------------------------------
+//   Background
+// -------------------------------------
+
+.cover {
+	position: relative;
+	&:hover {
+		.cover-media-shade {
+			// background: rgba(59,89,152,0.8);
+			// background: rgba($clr-indigo-600, 0.8);
+		}
+	}
+
+	&-media {
+		overflow: hidden;
+		position: relative;
+		position: absolute;
+		top: 0;
+		bottom: 0;
+		left: 0;
+		width: 100%;
+		margin: 0;
+
+		&-inner {
+			background-position: center;
+			background-size: cover;
+			height: 100%;
+			&.one {
+				background-image: url("/wp-content/themes/patsos/img/stock/32570.jpg");
+			}
+			&.two {
+				background-image: url("/wp-content/themes/patsos/img/stock/184918.jpg");
+			}
+			&.girl {
+				background-image: url("/wp-content/themes/patsos/img/hero/bg-girl.jpg");
+			}
+			&.women {
+				background-image: url("/wp-content/themes/patsos/img/hero/bg-women.jpg");
+			}
+			&.man {
+				background-image: url("/wp-content/themes/patsos/img/hero/bg-man.jpg");
+			}
+			&.couple {
+				background-image: url("/wp-content/themes/patsos/img/hero/bg-couple.jpg");
+			}
+			
+		}
+		&-shade {
+			background: rgba(46,51,74,0.5);
+		    height: 100%;
+	        bottom: 0;
+		    left: 0;
+		    position: absolute;
+		    right: 0;
+		    top: 0;
+		    @include transition(all .2s ease-in-out);
+		    &:hover {
+		    	// background: rgba(59,89,152,0.8);
+		    }
+		    &--cyan {
+		    	background: rgba(105, 200, 198, 0.52);
+		    	background: rgba($clr-cyan-400, .7);
+		    }
+
+		    &--indigo {
+		    	background: rgba(92,107,192,.7);
+		    	background: rgba($clr-indigo-400, .7);
+		    }
+		    &--dark {
+		    	background: rgba(92,107,192,.7);
+		    	background: rgba($clr-blue-grey-900, .9);
+		    }
+		}
+		&-shade--a {
+			background: rgba(105, 200, 198, 0.52);
+			&:hover {
+		    	background: rgba(105, 200, 198, 0.52);
+		    }
+		}
+	}
+
+	&.cover--side {
+		.cover-media {
+			width: 50%;
+		}
+		&.right {
+			.cover-media {
+				right: 0;
+				left: auto;
+			}
+		}
+		&.third {
+			.cover-media {
+				width: 33%;
+			}
+		}
+	}
+
+
+}

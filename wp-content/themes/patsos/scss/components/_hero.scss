@@ -1,0 +1,58 @@
+.hero {
+    background: #31352b center no-repeat;
+    background-size: cover;
+    color: white;
+    display: block;
+    position: relative;
+
+
+	&--codeschool {
+	    background: url("../img/hero/bg-city.svg") center bottom no-repeat,linear-gradient(#8bceda, #c5e6ed);
+	    background-size: auto 70%, auto;
+	}
+
+	&--bah {
+	    background-color: #251925;
+	    background-image: url("../img/hero/bg-space.jpg");
+	    img {
+	    	width: 50%;
+	    	display: block;
+	    	@media screen and (min-width: $g-s) {
+	    		width: 35%;
+	    	}
+	    	@media screen and (min-width: $g-l) {
+	    		width: 32%;
+	    	}
+	    }
+	}
+	&--women {
+	    background-color: $clr-pink-900;
+	    background-image: url("../img/hero/bg-girl.jpg");
+	    img {
+	    	width: 50%;
+	    	display: block;
+	    	@media screen and (min-width: $g-s) {
+	    		width: 35%;
+	    	}
+	    	@media screen and (min-width: $g-l) {
+	    		width: 32%;
+	    	}
+	    }
+	}
+	&--men {
+	    background-color: $clr-deep-orange-900;
+	    background-color: $clr-blue-grey-900;
+	    background-image: url("../img/hero/bg-men-2.jpg");
+	    img {
+	    	width: 50%;
+	    	display: block;
+	    	@media screen and (min-width: $g-s) {
+	    		width: 35%;
+	    	}
+	    	@media screen and (min-width: $g-l) {
+	    		width: 32%;
+	    	}
+	    }
+	}
+
+}

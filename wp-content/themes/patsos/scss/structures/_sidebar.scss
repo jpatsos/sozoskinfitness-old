@@ -1,0 +1,70 @@
+// *************************************
+//
+//   Sidebar
+//   -> Global utilities
+//
+// *************************************
+
+// -------------------------------------
+//   Connect - Sidebar
+// -------------------------------------
+
+.sidebar {
+	.connect {
+
+	}
+	.connect-header {
+		height: 30px;
+		line-height: 30px;
+		text-align: center;
+		display: block;
+		margin-bottom: $b-space-s;
+		font-weight: bold;
+		color: lighten($grey,10%);
+	}
+	.connect-logo {
+		display: inline-block;
+		max-width: 60px;
+		vertical-align: top;
+		margin-top: -4px;
+	}
+	a.connect-item {
+		display: block;
+		height: 50px;
+		line-height: 50px;
+		vertical-align: middle;
+		width: 100%;
+		color: white;
+		padding-left: $b-space;
+		margin-bottom: $b-space-s;
+		font-size: $b-fontSize-xs;
+		// @include transition();
+		i {
+			padding-right: $b-space-s;
+		}
+		&.facebook {
+			background-color: $facebook;
+			&:hover {
+				background-color: darken($facebook,10%);
+			}
+		}
+		&.twitter {
+			background-color: $twitter;
+			&:hover {
+				background-color: darken($twitter,10%);
+			}
+		}
+		&.pinterest {
+			background-color: $pinterest;
+			&:hover {
+				background-color: darken($pinterest,10%);
+			}
+		}
+		&.instagram {
+			background-color: $instagram;
+			&:hover {
+				background-color: darken($instagram,10%);
+			}
+		}
+	}
+}

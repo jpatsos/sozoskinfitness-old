@@ -1,0 +1,32 @@
+.callout {
+	position: relative;
+	text-align: center;
+}
+
+.callout--about {
+	background: -webkit-linear-gradient(rgba(49,53,43,0.8) 100%, #000), url("../img/hero/bg-about.jpg") center no-repeat,#464c3e;
+	background: linear-gradient(rgba(208, 216, 194, 0.8) 100%, #000), url("../img/hero/bg-about.jpg") center no-repeat, #464c3e;
+	background-size: auto, cover;
+	padding-bottom: 6em;
+	padding-top: 6em;
+}
+
+
+.callout--swirl {
+	background: -webkit-linear-gradient(rgba(49,53,43,0.8) 100%, #000), url("http://bestfaceorlando.com/wp-content/uploads/2015/05/pattern2.jpg") center repeat,#464c3e;
+	background: linear-gradient(rgba(208, 216, 194, 0.8) 100%, #000), url("http://bestfaceorlando.com/wp-content/uploads/2015/05/pattern2.jpg") center repeat, #464c3e;
+}
+
+.callout-title {
+	color: white;
+	@media screen and (min-width: $g-m) {
+		font-size: 175%;
+	}
+}
+
+.hr--callout {
+	background: #AABB96;
+	height: 4px;
+	margin: 2em auto;
+	width: 50%;
+}

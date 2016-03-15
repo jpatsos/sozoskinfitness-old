@@ -1,0 +1,132 @@
+// *************************************
+//
+//   Config
+//   -> Fonts, Variables
+//
+// *************************************
+
+// -------------------------------------
+//   Colors
+// -------------------------------------
+
+// ----- Palette ----- //
+
+$primary: #4e4e5b;
+$secondary: #edf1ea;
+$third: #333;
+
+$blue: #8EC9D2;
+$dark-blue: #2E334A;
+$grey: #B7B8BF;
+
+$purple: #a19bca;
+$teal: #69c8c6;
+$slate: #8898ac;
+$light-grey: #ccc;
+
+// ----- Social ----- //
+
+$twitter: #00aced;
+$facebook: #3b5998;
+$googleplus: #dd4b39;
+$pinterest: #cb2027;
+$linkedin: #007bb6;
+$youtube: #bb0000;
+$vimeo: #aad450;
+$instagram: #517fa4;
+
+// ----- Numbers ----- //
+
+
+// ----- Base ----- //
+
+$c-background-invert: white;
+$c-background: white;
+$c-border: lighten($secondary, 30%);
+$c-highlight: $clr-cyan-400;
+$c-subdue: lighten($clr-cyan-400, 20%);
+$c-text-invert: white;
+$c-text: $third;
+
+// ----- Components ----- //
+
+// ...
+
+
+// ...
+
+// -------------------------------------
+//   Base
+// -------------------------------------
+
+// ----- Borders & Box Shadow ----- //
+
+$b-borderRadius: 3px;
+$b-borderStyle: solid;
+$b-borderWidth: 2px;
+$b-border: $b-borderWidth $b-borderStyle $c-border;
+$b-boxShadow: 0 2px 0 rgba($c-text, 0.25);
+
+// ----- Typography ----- //
+$b-fontFamily-heading: 'Questrial', sans-serif;
+$b-fontFamily-light: 'Open Sans', sans-serif;
+$b-fontFamily-third: 'Unica One', cursive;
+$b-fontFamily: 'Muli', sans-serif;
+$b-fontSize: 18px;
+$b-fontSize-xs: 75%;
+$b-fontSize-s: 90%;
+$b-fontSize-l: 115%;
+$b-fontSize-xl: 150%;
+$b-fontSize-h1: 200%;
+$b-fontSize-h2: 100%;
+$b-fontSize-h3: 125%;
+$b-fontSize-h4: 110%;
+$b-lineHeight: 1.5;
+
+// ----- Sizing ----- //
+
+$b-maxWidth: em(1024px);
+$b-maxWidth-xs: em(478px);
+$b-maxWidth-s: em(700px);
+$b-maxWidth-m: em(900px);
+$b-space: em(20px);
+$b-space-xs: $b-space * 0.25;
+$b-space-s: $b-space * 0.5;
+$b-space-l: $b-space * 2;
+$b-space-xl: $b-space * 4;
+$b-space-xxl: $b-space * 5;
+$b-space-xxxl: $b-space * 8;
+$b-space-xxxxl: $b-space * 10;
+
+// -------------------------------------
+//   Components
+// -------------------------------------
+
+// ----- Grid ----- //
+
+// Breakpoints
+
+$g-s: em(480px);
+$g-m-max: em(799px);
+$g-m: em(800px);
+$g-l: em(1024px);
+
+// Settings
+
+$g-columns: 12;
+$g-defaults: "s" $g-s, "m" $g-m, "l" $g-l;
+$g-gutter: $b-space;
+$g-silent: false;
+
+// Selector
+
+$g-selector: if($g-silent, unquote("%"), unquote("."));
+
+// -------------------------------------
+//   Structures
+// -------------------------------------
+
+// ...
+
+$nav-height-desktop: 80px;
+$nav-height-mobile: 60px;

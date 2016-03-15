@@ -1,0 +1,19 @@
+.brands {
+	@include display-flex;
+
+	@include justify-content(space-between);
+	img {
+		width: 250px;
+	}
+	div {
+		opacity: .4;
+	}
+}
+
+.hero-title {
+	font-size: 180%;
+	font-size: 300%;
+	@media screen and (min-width: $g-m) {
+		font-size: 300%;
+	}
+}
