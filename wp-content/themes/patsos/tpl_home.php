@@ -25,6 +25,31 @@ Template Name: Home
 				</div>
 			</div>
 		</div>
+<?php /*
+        <div class="row">
+            <div class="flexslider">
+              <ul class="slides">
+                <li>
+                  <div class="cell well--xl">
+                    <p>Sheri is AMAZING! Her attention to detail is exquisite. She has truly helped me love my skin, instead of covering it up. Her facials should be labeled 'spiritual facials', since her technique of relaxing you is almost..spiritual. I would recommend Sheri to anybody looking to improve their skin, their confidence, and their soul</p>
+                  </div>
+                </li>
+                <li>
+                  <div class="cell well--xl">
+                    Hello World!!!!! AGAIN!
+                  </div>
+                </li>
+                <li>
+                  <div class="cell well--xl">
+                    WEEE!
+                  </div>
+                </li>
+              </ul>
+            </div>
+        </div>
+*/ ?>
+
+        
 
         <div class="row row--a">
             <div class="well well--xl">
